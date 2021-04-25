@@ -6,9 +6,8 @@ For a blog post about this project please see [here](https://medium.com/@julhorn
 ## Table of Contents
 1.) Installation
 2.) Project Motivation
-3.) File Descriptions
-4.) Results
-5.) Licensing, Authors, and Acknowledgements
+3.) Questions and important findings
+4.) Licensing, Authors, and Acknowledgements
 
 ## Installation
 The .ipynb file can be used with jupyter notebooks. Please see here(https://jupyter.org/install) for installation details. 
